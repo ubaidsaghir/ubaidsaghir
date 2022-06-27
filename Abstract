@@ -1,0 +1,11 @@
+abstract class A
+{
+ abstract void xyz();   
+    
+}
+public class lab9
+{
+    {
+        
+    }
+}

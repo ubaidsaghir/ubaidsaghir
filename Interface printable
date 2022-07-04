@@ -1,0 +1,19 @@
+Interface printable
+{
+  void print();
+}
+class A6 implements printable 
+{
+  public void print()
+{
+  System.out.print("Hello")
+}
+}
+public class Mainclass_DemoGB
+{
+  public static void main (String arg[])
+{
+A6 a=new A6();
+a.print();
+}
+}

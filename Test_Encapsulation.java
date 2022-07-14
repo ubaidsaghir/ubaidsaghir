@@ -15,7 +15,7 @@ public class Test_Encapsulation
   public static void main(String [] arg)
 {
      Encapsulation e=new Encapsulation();
- System.out.println(e.getter_x());
+ System.out.println(e.x);
  e.setter_x(10);
 System.out.println(e.getter_x());
 }

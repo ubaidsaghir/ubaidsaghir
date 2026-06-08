@@ -16,8 +16,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ubaidsaghir456-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ubaidsaghir456)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ubaidsaghir456\&style=for-the-badge\&color=58A6FF\&label=PROFILE+VIEWS)](https://github.com/ubaidsaghir456)
-
 </div>
 
 ---

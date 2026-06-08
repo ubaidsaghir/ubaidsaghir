@@ -102,11 +102,33 @@ Enterprise-grade data platform that ingests market data from multiple global reg
 
 AWS • Airflow • Databricks • PySpark • Snowflake • dbt • Power BI
 
-🔗 Repository: https://github.com/ubaidsaghir456/global-market-harmonizer
+## 🔗 Repository: https://github.com/ubaidsaghir456/global-market-harmonizer
 
 ---
 
+## 🐳 Containerized ETL Pipeline
+
+Production-style data engineering project built in Python that demonstrates how a complete API-to-S3 ETL pipeline can be containerized using Docker for portability, reproducibility, and easy deployment.
+
+**Highlights**
+
+* Real-time weather data ingestion (WeatherAPI)
+* ETL pipeline implementation (Extract → Transform → Load)
+* Data transformation using Pandas DataFrame
+* Cloud storage integration with AWS S3
+* Fully containerized execution using Docker
+
+**Tech Stack**
+
+Python • Docker • Pandas • Requests • Boto3 • AWS S3 • WeatherAPI
+
+## 🔗 Repository: https://github.com/ubaidsaghir/etl-pipeline-containerized-docker
+
+---
+
+
 ### ⚡ Multi-Engine Data Processing Platform
+
 
 Designed a workload-aware architecture that routes processing between Databricks and Snowflake based on performance and cost requirements.
 
@@ -121,27 +143,27 @@ Designed a workload-aware architecture that routes processing between Databricks
 
 Databricks • PySpark • Snowflake
 
-🔗 Repository: https://github.com/ubaidsaghir/The_Tri_Data_Engine_Project
+## 🔗 Repository: https://github.com/ubaidsaghir/The_Tri_Data_Engine_Project
 
 ---
 
-☁️ The Cloud Uplink — AWS
+## ☁️ The Cloud Uplink — AWS
 
 Production-style data engineering project built in Python that fetches live weather data from an API, transforms it using Pandas, and loads it into AWS S3 using Boto3.
 
 Highlights
 
-Real-time weather data ingestion (WeatherAPI)
-ETL pipeline implementation (Extract → Transform → Load)
-Data transformation using Pandas DataFrame
-Cloud storage integration with AWS S3
-Automated CSV generation and upload workflow
+* Real-time weather data ingestion (WeatherAPI)
+* ETL pipeline implementation (Extract → Transform → Load)
+* Data transformation using Pandas DataFrame
+* Cloud storage integration with AWS S3
+* Automated CSV generation and upload workflow
 
-Tech Stack
+**Tech Stack**
 
 Python • Pandas • Requests • Boto3 • AWS S3 • WeatherAPI
 
-🔗 Repository: https://github.com/ubaidsaghir/the-cloud-uplink-aws
+## 🔗 Repository: https://github.com/ubaidsaghir/the-cloud-uplink-aws
 
 ---
 
@@ -160,7 +182,7 @@ Production-ready ELT pipeline built using dbt, Docker, and Airflow with automate
 
 dbt • Airflow • Docker • Snowflake
 
-🔗 Repository: https://github.com/ubaidsaghir/local-dbt-pipeline
+## 🔗 Repository: https://github.com/ubaidsaghir/local-dbt-pipeline
 
 ---
 
@@ -180,7 +202,7 @@ Production-style SQL analytics project built in PostgreSQL to analyze sales perf
 
 PostgreSQL • SQL • CTEs • Window Functions • Data Modeling
 
-🔗 Repository: https://github.com/ubaidsaghir/The_Business_Analyst_Project_SQL
+## 🔗 Repository: https://github.com/ubaidsaghir/The_Business_Analyst_Project_SQL
 
 ---
 
@@ -199,7 +221,7 @@ Reusable ingestion framework that standardizes data collection from external API
 
 Python • AWS • REST APIs
 
-🔗 Repository: https://github.com/ubaidsaghir/The_API_Scraper
+## 🔗 Repository: https://github.com/ubaidsaghir/The_API_Scraper
 
 ---
 

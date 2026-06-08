@@ -121,7 +121,7 @@ Designed a workload-aware architecture that routes processing between Databricks
 
 Databricks • PySpark • Snowflake
 
-🔗 Repository: https://github.com/ubaidsaghir456/tri-engine-project
+🔗 Repository: https://github.com/ubaidsaghir/The_Tri_Data_Engine_Project
 
 ---
 
@@ -140,7 +140,27 @@ Production-ready ELT pipeline built using dbt, Docker, and Airflow with automate
 
 dbt • Airflow • Docker • Snowflake
 
-🔗 Repository: https://github.com/ubaidsaghir456/local-dbt-pipeline
+🔗 Repository: https://github.com/ubaidsaghir/local-dbt-pipeline
+
+---
+
+## 📊 The Business Analyst – SQL Analytics Project
+
+Production-style SQL analytics project built in PostgreSQL to analyze sales performance and compute rolling trends using advanced SQL techniques like CTEs and Window Functions.
+
+**Highlights**
+
+* Real-world sales data modeling (3-table relational schema)
+* Daily revenue aggregation across product categories
+* Identification of top-performing business category
+* 3-day rolling average using SQL window functions
+* Clean, scalable analytical query structure
+
+**Tech Stack**
+
+PostgreSQL • SQL • CTEs • Window Functions • Data Modeling
+
+🔗 Repository: https://github.com/ubaidsaghir/The_Business_Analyst_Project_SQL
 
 ---
 
@@ -159,7 +179,7 @@ Reusable ingestion framework that standardizes data collection from external API
 
 Python • AWS • REST APIs
 
-🔗 Repository: https://github.com/ubaidsaghir456/the-api-scrapper
+🔗 Repository: https://github.com/ubaidsaghir/The_API_Scraper
 
 ---
 

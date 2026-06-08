@@ -125,6 +125,26 @@ Databricks • PySpark • Snowflake
 
 ---
 
+☁️ The Cloud Uplink — AWS
+
+Production-style data engineering project built in Python that fetches live weather data from an API, transforms it using Pandas, and loads it into AWS S3 using Boto3.
+
+Highlights
+
+Real-time weather data ingestion (WeatherAPI)
+ETL pipeline implementation (Extract → Transform → Load)
+Data transformation using Pandas DataFrame
+Cloud storage integration with AWS S3
+Automated CSV generation and upload workflow
+
+Tech Stack
+
+Python • Pandas • Requests • Boto3 • AWS S3 • WeatherAPI
+
+🔗 Repository: https://github.com/ubaidsaghir/the-cloud-uplink-aws
+
+---
+
 ### 🔄 Modern dbt Pipeline
 
 Production-ready ELT pipeline built using dbt, Docker, and Airflow with automated testing, lineage tracking, and orchestration.

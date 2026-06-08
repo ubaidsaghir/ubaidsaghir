@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=220&section=header&text=Ubaid%20Saghir&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C2128,100:58A6FF&height=220&section=header&text=Ubaid%20Saghir&fontSize=50&fontColor=ffffff"/>
 
 <h1>Ubaid Saghir</h1>
 

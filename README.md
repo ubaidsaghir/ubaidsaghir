@@ -102,7 +102,7 @@ Enterprise-grade data platform that ingests market data from multiple global reg
 
 AWS • Airflow • Databricks • PySpark • Snowflake • dbt • Power BI
 
-## 🔗 Repository: https://github.com/ubaidsaghir456/global-market-harmonizer
+## 🔗 Repository: https://github.com/ubaidsaghir/the-global-market-harmonizer
 
 ---
 
